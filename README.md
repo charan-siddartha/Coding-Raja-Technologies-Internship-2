@@ -1,1 +1,1 @@
-This is Music Player Application in HTML,CSS,JS
+Music Player Application is built by using HTML,CSS,JS
